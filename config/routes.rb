@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   resources :chicks
   resources :dogs
   resources :cats
+  resources :hellos
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")
